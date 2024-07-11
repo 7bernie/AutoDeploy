@@ -3,7 +3,7 @@ import UserList from '../components/UserList';
 
 const HomePage = () => (
   <div>
-    <h1>Welcome to the Home Page</h1>
+    <h1>Auto Deploy</h1>
     <UserList />
   </div>
 );
